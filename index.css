@@ -1,0 +1,319 @@
+body{
+    background-color:white;
+}
+
+  }
+  #top{
+      position: absolute;
+      float: left;
+      color: white;
+      top: 02px;
+      font-size: 20px;
+      left: 20px;
+  }
+  .er{
+      font-size: 60px;
+      position: absolute;
+      color: white;
+      left:50px;
+  }
+  .er1{
+    font-size: 60px;
+    position: absolute;
+    color: white;
+    left:50px;
+    top:60px;
+}
+  .abo{
+      position: absolute;
+      top: 100px;
+      margin-left: 150px;
+  }
+  #about{
+      position: absolute;
+      border: 2px solid white;
+      box-shadow: 0 0 20px #888888;
+      width: 1200px;
+      margin-left: 150px;
+      top: 700px;
+      height: 400px;
+  }
+  .opening{
+    position: absolute;
+    border: 2px solid white;
+    box-shadow: 0 0 20px #888888;
+    width: 1200px;
+    margin-left: 150px;
+    top:200px;
+    height: 350px;
+    background-color: #888888;
+  }
+  #about #sid{
+      margin-top: 60px;
+      margin-left: 50px;
+  }
+  #about p{
+      margin-left: 50px;
+      width: 500px;
+      font-size: 22px;
+  }
+.ab1{
+    position: absolute;
+    top: 730px;
+    float: right;
+    right: 650px;
+  }
+.ab2{
+    position: absolute;
+    top: 810px;
+    float: right;
+    right: 640px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab3{
+    position: absolute;
+    top: 870px;
+    float: right;
+    right: 625px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab4{
+    position: absolute;
+    top: 930px;
+    float: right;
+    right: 610px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab5{
+    position: absolute;
+    top: 990px;
+    float: right;
+    right: 590px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab21{
+    position: absolute;
+    top: 810px;
+    float: right;
+    right: 510px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab31{
+    position: absolute;
+    top: 870px;
+    float: right;
+    right: 200px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab41{
+    position: absolute;
+    top: 930px;
+    float: right;
+    right: 400px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .ab51{
+    position: absolute;
+    top: 990px;
+    float: right;
+    right: 280px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #skill{
+    position: absolute;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: 0 0 20px #000000;
+    width: 1200px;
+    margin-left: 150px;
+    top: 1150px;
+    height: 350px;
+}
+.wk{
+    position: absolute;
+    margin-left: 200px;
+    top: 1150px;
+    font-size: 20px;
+}
+.wk1{
+    position: absolute;
+    margin-left: 200px;
+    top: 1250px;
+    font-size: 20px;
+}
+.wk2{
+    position: absolute;
+    margin-left: 200px;
+    top: 1300px;
+    font-size: 20px;
+}
+.wk3{
+    position: absolute;
+    margin-left: 200px;
+    top: 1350px;
+    font-size: 20px;
+}
+.wk4{
+    position: absolute;
+    margin-left: 200px;
+    top: 1400px;
+    font-size: 20px;
+}
+.wk5{
+    position: absolute;
+    margin-left: 200px;
+    top: 1450px;
+    font-size: 20px;
+}
+.details{
+    padding: 30px;
+    display: flex;  
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.bar{
+    width: 600px;
+    position: relative;
+    border: 2px solid #0d96e0;
+    border-radius: 20px;
+    top: 1150px;
+    margin-left: 200px;
+}
+.bar div{
+    position: relative;
+    width: 0;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #0d96e0;
+}
+.img2{
+    position: absolute;
+    top: 1250px;
+    right: 220px;
+}
+#edu{
+    position: absolute;
+    border: 2px solid white;
+    box-shadow: 0 0 20px #888888;
+    width: 1200px;
+    margin-left: 150px;
+    top: 1600px;
+    height: 420px;
+}
+.edu1{
+    position: absolute;
+    margin-left: 200px;
+    top: 1620px;
+    font-size: 20px;
+}
+.edu2{
+    position: absolute;
+    margin-left: 200px;
+    top: 1720px;
+    font-size: 20px;
+}
+.edu2 table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.edu2 th,td{
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 40px;
+        font-size: 25px;
+}
+#contact{
+    position: absolute;
+    border: 2px solid white;
+    box-shadow: 0 0 20px #888888;
+    width: 1200px;
+    margin-left: 150px;
+    top: 2130px;
+    height: 520px;
+}
+.con{
+    position: absolute;
+    margin-left: 200px;
+    top: 2140px;
+    font-size: 15px;
+}
+.con1{
+    position: absolute;
+    margin-left: 200px;
+    top: 2220px;
+    font-size: 25px;
+}
+.con2{
+    position: absolute;
+    margin-left: 200px;
+    top: 2320px;
+    font-size: 20px;
+}
+.con2 input[type=text]{
+    width: 380px;
+    padding: 12px 20px;
+}
+.sub{
+    position: absolute;
+    top: 300px;
+    margin-left: 150px;
+}
+.foot{
+    position: absolute;
+    margin-left: 600px;
+    top: 2720px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.foot1{
+    position: absolute;
+    margin-left: 30px;
+}
+.foot2{
+    position: absolute;
+    margin-left: 70px;
+}
+.foot3{
+    position: absolute;
+    margin-left: 110px;
+}
+.foot4{
+    position: absolute;
+    margin-left: 150px;
+
+}
+#html-bar{
+    animation: html-fill 2s forwards;
+}
+@keyframes html-fill{
+    100%{
+        width: 90%;
+    }
+}
+#css-bar{
+    animation: css-fill 2s forwards;
+}
+@keyframes css-fill{
+    100%{
+        width: 80%;
+    }
+}
+#javascript-bar{
+    animation: js-fill 2s forwards;
+}
+@keyframes js-fill {
+    100%{
+        width: 70%;
+    }
+}
+#C-bar{
+    animation: js-fill 2s forwards;
+}
